@@ -1,5 +1,5 @@
 # SSPSR
-A spatial-spectral prior network for hyperspectral image super-resolution
+A spatial-spectral prior deep network for hyperspectral image super-resolution
 
 # The code is for the following work and will be available soon.
 
@@ -14,3 +14,4 @@ A spatial-spectral prior network for hyperspectral image super-resolution
   year={2020}
 }
 ```
+# Please leave your email, I will notify you as soon as the code is published.
