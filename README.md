@@ -6,8 +6,9 @@ In this paper, we introduce a spatial-spectral prior network (SSPN) to fully exp
 ----------
 ![sketch](/framework.png)
 ----------
-The overall network architecture of the proposed SSPSR network.
 
+
+If you find our work useful in your research or publication, please cite our work:
 ```
 @article{jiang2020learning,
   title={Learning Spectral-Spatial Prior for Super-Resolution of Hyperspectral Imagery},
@@ -19,5 +20,7 @@ The overall network architecture of the proposed SSPSR network.
   year={2020}
 }
 ```
+
+
 
 
