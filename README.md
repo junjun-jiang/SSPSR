@@ -1,5 +1,5 @@
-# SSPSR
-A spatial-spectral prior deep network for hyperspectral image super-resolution
+# SSPSR-Pytorch
+A spatial-spectral prior deep network for hyperspectral image super-resolution.
 
 The code is for the following work:
 
@@ -14,3 +14,6 @@ The code is for the following work:
   year={2020}
 }
 ```
+----------
+![sketch](/N5newCA.pdf)
+----------
