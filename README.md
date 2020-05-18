@@ -1,7 +1,7 @@
 # SSPSR
 A spatial-spectral prior deep network for hyperspectral image super-resolution
 
-# The code is for the following work：
+The code is for the following work:
 
 ```
 @article{jiang2020learning,
