@@ -15,5 +15,5 @@ The code is for the following work:
 }
 ```
 ----------
-![sketch](/N5newCA.pdf)
+![sketch](/framework.png)
 ----------
