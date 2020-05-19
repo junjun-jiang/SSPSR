@@ -1,6 +1,6 @@
 # SSPSR-Pytorch
 
-Paper: https://arxiv.org/abs/XXXX.XXXX
+Paper: https://arxiv.org/abs/2005.08752
 
 ### Learning Spatial-Spectral Prior for Super-Resolution of Hyperspectral Imagery
 
