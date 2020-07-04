@@ -14,7 +14,7 @@ In this paper, we introduce a spatial-spectral prior network (SSPN) to fully exp
    
 - The network architecture of the spatial-spectral block (SSB)
 
-   <img src="figs/SSB.png" width="800px"/>
+   <img src="figs/SSB.png" width="900px"/>
    
 # Results
 - Chikusei Dataset
@@ -34,11 +34,11 @@ In this paper, we introduce a spatial-spectral prior network (SSPN) to fully exp
    
    * Reconstructed images of stuffed_toys at 480nm, 580nm and 680nm with upsampling factor d = 4.
    
-   <img src="figs/Cavex4.png" width="400px"/>
+   <img src="figs/Cavex4.png" width="600px"/>
    
    * Reconstructed images of real_and_fake_apples at 480nm, 580nm and 680nm with upsampling factor d = 8.
    
-   <img src="figs/Cavex8.png" width="400px"/>
+   <img src="figs/Cavex8.png" width="600px"/>
 
 ### If you find our work useful in your research or publication, please cite our work:
 ```
