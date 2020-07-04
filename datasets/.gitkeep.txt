@@ -1,1 +1,1 @@
-Please refer to the folder of mcodes for generating the training and testing data.
+Please refer to the folder of mcodes for generating the training and testing samples.
