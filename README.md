@@ -14,31 +14,31 @@ In this paper, we introduce a spatial-spectral prior network (SSPN) to fully exp
    
 - The network architecture of the spatial-spectral block (SSB)
 
-   <img src="figs/SSB.png" width="800px"/>
+   <img src="figs/SSB.png" width="900px"/>
    
 # Results
 - Chikusei Dataset
-  * Average quantitative comparisons of ten different approaches over four testing images from Chikusei dataset with respect to six PQIs.
+ * Average quantitative comparisons of different approaches over Chikusei dataset.
 
-   <img src="figs/Chikusei.png" width="600px"/>
+   <img src="figs/Chikusei.png" width="500px"/>
    
 - Pavia Dataset
-  * Average quantitative comparisons of ten different approaches over four testing images from Pavia Centre dataset with respect to six PQIs.
+  * Average quantitative comparisons of different approaches over Pavia Centre dataset.
 
-   <img src="figs/Pavia.png" width="600px"/>
+   <img src="figs/Pavia.png" width="500px"/>
    
  - Cave Dataset
-   * Average quantitative comparisons of ten different approaches over 12 testing images from Cave dataset with respect to six PQIs.
+ * Average quantitative comparisons of different approaches over Cave dataset.
 
-   <img src="figs/Cave.png" width="600px"/>
+   <img src="figs/Cave.png" width="500px"/>
    
    * Reconstructed images of stuffed_toys at 480nm, 580nm and 680nm with upsampling factor d = 4.
    
-   <img src="figs/Cavex4.png" width="400px"/>
+   <img src="figs/Cavex4.png" width="600px"/>
    
    * Reconstructed images of real_and_fake_apples at 480nm, 580nm and 680nm with upsampling factor d = 8.
    
-   <img src="figs/Cavex8.png" width="400px"/>
+   <img src="figs/Cavex8.png" width="600px"/>
 
 ### If you find our work useful in your research or publication, please cite our work:
 ```
