@@ -11,6 +11,22 @@ In this paper, we introduce a spatial-spectral prior network (SSPN) to fully exp
 ![sketch](figs/framework.png)
 ----------
 
+Average quantitative comparisons of different approaches over Chikusei dataset.
+----------
+![sketch](figs/Chikusei.png)
+----------
+
+
+Average quantitative comparisons of different approaches over Pavia dataset.
+----------
+![sketch](figs/Pavia.png)
+----------
+
+Average quantitative comparisons of different approaches over Cave dataset.
+----------
+![sketch](figs/Cave.png)
+----------
+
 
 ### If you find our work useful in your research or publication, please cite our work:
 ```
