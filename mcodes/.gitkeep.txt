@@ -1,0 +1,1 @@
+This is a demo code to show how to generate training and testing samples from the HSI.

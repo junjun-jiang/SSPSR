@@ -1,0 +1,1 @@
+Please manually move 10% of the training samples (in the folder of trains) to the folder of evals.
