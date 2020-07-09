@@ -43,13 +43,11 @@ In this paper, we introduce a spatial-spectral prior network (SSPN) to fully exp
 ### If you find our work useful in your research or publication, please cite our work:
 ```
 @article{jiang2020learning,
-  title={Learning Spatial-Spectral Prior for Super-Resolution of Hyperspectral Imagery},
-  author={Jiang, Junjun and Sun, He and Liu, Xianming and Ma, Jiayi},
-  journal={IEEE Transactions on Computational Imaging},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TCI.2020.2996075}
-  year={2020}
-}
+ author={J. {Jiang} and H. {Sun} and X. {Liu} and J. {Ma}}, 
+ journal={IEEE Transactions on Computational Imaging}, 
+ title={Learning Spatial-Spectral Prior for Super-Resolution of Hyperspectral Imagery}, 
+ year={2020}, 
+ volume={6}, 
+ number={}, 
+ pages={1082-1096},}
 ```
