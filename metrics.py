@@ -10,7 +10,8 @@
 """
 import numpy as np
 from scipy.signal import convolve2d
-from skimage.measure import compare_psnr, compare_ssim
+from skimage.metrics import peak_signal_noise_ratio, structural_similarity
+
 
 def compare_ergas(x_true, x_pred, ratio):
     """
@@ -103,7 +104,7 @@ def compare_mpsnr(x_true, x_pred, data_range):
     """
     x_true, x_pred = x_true.astype(np.float32), x_pred.astype(np.float32)
     channels = x_true.shape[2]
-    total_psnr = [compare_psnr(im_true=x_true[:, :, k], im_test=x_pred[:, :, k], data_range=data_range)
+    total_psnr = [peak_signal_noise_ratio(image_true=x_true[:, :, k], image_test=x_pred[:, :, k], data_range=data_range)
                   for k in range(channels)]
 
     return np.mean(total_psnr)
@@ -118,7 +119,7 @@ def compare_mssim(x_true, x_pred, data_range, multidimension):
     :param multidimension:
     :return:
     """
-    mssim = [compare_ssim(X=x_true[:, :, i], Y=x_pred[:, :, i], data_range=data_range, multidimension=multidimension)
+    mssim = [structural_similarity(X=x_true[:, :, i], Y=x_pred[:, :, i], data_range=data_range, multidimension=multidimension)
             for i in range(x_true.shape[2])]
 
     return np.mean(mssim)
